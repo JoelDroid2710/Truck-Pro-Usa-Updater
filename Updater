@@ -1,0 +1,16 @@
+{
+  "showDialog": true,
+  "appVersionCode": 82,
+  "messageText": "New Update Available Now Go and Download it first in Mod version!",
+  "updateButtonText": "UPDATE",
+  "updateButtonLink": "https://youtube.com/@joeldroidyt",
+  "updateButtonGradientStartColor": "##FF393939",
+  "updateButtonGradientEndColor": "##FF393939",
+  "cancelButtonText": "CANCEL",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#64B5F6",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
+}
